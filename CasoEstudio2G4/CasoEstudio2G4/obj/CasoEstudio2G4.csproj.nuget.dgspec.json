@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Roberto\\OneDrive\\Escritorio\\computacion\\CasoEstudio2Grupo4\\CasoEstudio2G4\\CasoEstudio2G4\\CasoEstudio2G4.csproj": {}
+    "C:\\github\\CasoEstudio2Grupo4\\CasoEstudio2G4\\CasoEstudio2G4\\CasoEstudio2G4.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Roberto\\OneDrive\\Escritorio\\computacion\\CasoEstudio2Grupo4\\CasoEstudio2G4\\CasoEstudio2G4\\CasoEstudio2G4.csproj": {
+    "C:\\github\\CasoEstudio2Grupo4\\CasoEstudio2G4\\CasoEstudio2G4\\CasoEstudio2G4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Roberto\\OneDrive\\Escritorio\\computacion\\CasoEstudio2Grupo4\\CasoEstudio2G4\\CasoEstudio2G4\\CasoEstudio2G4.csproj",
+        "projectUniqueName": "C:\\github\\CasoEstudio2Grupo4\\CasoEstudio2G4\\CasoEstudio2G4\\CasoEstudio2G4.csproj",
         "projectName": "CasoEstudio2G4",
-        "projectPath": "C:\\Users\\Roberto\\OneDrive\\Escritorio\\computacion\\CasoEstudio2Grupo4\\CasoEstudio2G4\\CasoEstudio2G4\\CasoEstudio2G4.csproj",
-        "packagesPath": "C:\\Users\\Roberto\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Roberto\\OneDrive\\Escritorio\\computacion\\CasoEstudio2Grupo4\\CasoEstudio2G4\\CasoEstudio2G4\\obj\\",
+        "projectPath": "C:\\github\\CasoEstudio2Grupo4\\CasoEstudio2G4\\CasoEstudio2G4\\CasoEstudio2G4.csproj",
+        "packagesPath": "C:\\Users\\cgtro\\.nuget\\packages\\",
+        "outputPath": "C:\\github\\CasoEstudio2Grupo4\\CasoEstudio2G4\\CasoEstudio2G4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Roberto\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\cgtro\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -39,6 +39,16 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.1.35, )"
+            },
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[5.2.2, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

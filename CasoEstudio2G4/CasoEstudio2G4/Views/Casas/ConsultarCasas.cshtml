@@ -1,0 +1,24 @@
+﻿@model IEnumerable<CasoEstudio2G4.Models.CasaModel>
+
+<h2>Consulta de Casas</h2>
+<table class="table">
+    <thead>
+        <tr>
+            <th>Descripción</th>
+            <th>Precio</th>
+            <th>Estado</th>
+            <th>Fecha de Alquiler</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var casa in Model)
+        {
+            <tr>
+                <td>@casa.DescripcionCasa</td>
+                <td>@casa.PrecioCasa</td>
+                <td>@casa.Estado</td>
+                <td>@casa.FechaAlquiler</td>
+            </tr>
+        }
+    </tbody>
+</table>
