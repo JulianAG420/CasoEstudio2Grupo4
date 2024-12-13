@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\cgtro\\.nuget\\packages\\": {}
+    "C:\\Users\\Roberto\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\github\\CasoEstudio2G4\\CasoEstudio2G4\\CasoEstudio2G4\\CasoEstudio2G4.csproj",
+      "projectUniqueName": "C:\\Users\\Roberto\\OneDrive\\Escritorio\\computacion\\CasoEstudio2Grupo4\\CasoEstudio2G4\\CasoEstudio2G4\\CasoEstudio2G4.csproj",
       "projectName": "CasoEstudio2G4",
-      "projectPath": "C:\\github\\CasoEstudio2G4\\CasoEstudio2G4\\CasoEstudio2G4\\CasoEstudio2G4.csproj",
-      "packagesPath": "C:\\Users\\cgtro\\.nuget\\packages\\",
-      "outputPath": "C:\\github\\CasoEstudio2G4\\CasoEstudio2G4\\CasoEstudio2G4\\obj\\",
+      "projectPath": "C:\\Users\\Roberto\\OneDrive\\Escritorio\\computacion\\CasoEstudio2Grupo4\\CasoEstudio2G4\\CasoEstudio2G4\\CasoEstudio2G4.csproj",
+      "packagesPath": "C:\\Users\\Roberto\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Roberto\\OneDrive\\Escritorio\\computacion\\CasoEstudio2Grupo4\\CasoEstudio2G4\\CasoEstudio2G4\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\cgtro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Roberto\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
